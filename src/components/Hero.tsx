@@ -170,8 +170,8 @@ const Hero: React.FC = () => {
             View My Work
           </motion.button>
           <motion.a
-            href="/Shifa_Afreen_Fahim_CV.docx"
-            download="Shifa_Afreen_Fahim_CV.docx"
+            href="/Shifa_Afreen_Fahim.pdf"
+            download="Shifa_Afreen_Fahim.pdf"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="magnetic-button hoverable"
