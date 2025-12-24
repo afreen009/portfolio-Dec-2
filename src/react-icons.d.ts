@@ -35,3 +35,4 @@ declare module 'react-icons' {
   export type IconType = FC<SVGProps<SVGSVGElement> & { size?: number | string; color?: string }>;
 }
 
+
